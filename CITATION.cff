@@ -4,6 +4,7 @@ authors:
   - family-names: Ghalib
     given-names: Marwan
     orcid: https://orcid.org/0000-0002-9611-4955
-title: "My Research Software"
+title: "Multi-task learning for Prayas Dataset"
 version: 2.0.4
 date-released: 2021-10-25
+url: "https://github.com/marwanghalib/multitask_covid_19_load_forecasting"
